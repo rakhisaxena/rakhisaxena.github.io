@@ -1,18 +1,18 @@
 # Site settings
-title: Mayank Saxena
-description: 'Programmer • Developer • Tech Enthusiast'
-url: 'https://github.com/mayank26saxena/mayank26saxena.github.io/'
-baseurl: 'http://mayank26saxena.github.io/'
+title: Rakhi Saxena
+description: '• Educator • Data Analyst • '
+url: 'https://github.com/rakhisaxena/rakhisaxena.github.io/'
+baseurl:  '/rakhisaxena-website/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Mayank Saxena'
-  email: mayank26saxena@gmail.com
-  twitter_username: mayank_saxena96
-  facebook_username: mayank96saxena
-  github_username:  mayank26saxena
-  linkedin_username:  mayank26saxena
+  name: 'Rakhi Saxena'
+  email: rakhisaxena@yahoo.com
+  twitter_username: rakhisaxena
+  facebook_username: rakhisaxena
+  github_username:  rakhisaxena
+  linkedin_username:  rakhisaxena
 
 defaults:
   -

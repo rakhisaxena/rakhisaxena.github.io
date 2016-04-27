@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mayank Saxena</title>
-    <description>Programmer • Developer • Tech Enthusiast</description>
-    <link>http://joshgerdes.com/jekyll-uno/jekyll-uno//</link>
-    <atom:link href="http://joshgerdes.com/jekyll-uno/jekyll-uno//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 19 Apr 2016 21:36:01 +0530</pubDate>
-    <lastBuildDate>Tue, 19 Apr 2016 21:36:01 +0530</lastBuildDate>
+    <title>Rakhi Saxena</title>
+    <description>• Educator • Data Analyst • </description>
+    <link>https://github.com/rakhisaxena/rakhisaxena.github.io//rakhisaxena-website//</link>
+    <atom:link href="https://github.com/rakhisaxena/rakhisaxena.github.io//rakhisaxena-website//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 27 Apr 2016 16:09:25 +0530</pubDate>
+    <lastBuildDate>Wed, 27 Apr 2016 16:09:25 +0530</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
@@ -29,8 +29,8 @@
 
 </description>
         <pubDate>Fri, 08 Jan 2016 20:34:23 +0530</pubDate>
-        <link>http://joshgerdes.com/jekyll-uno/jekyll-uno//2016/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://joshgerdes.com/jekyll-uno/jekyll-uno//2016/welcome-to-jekyll/</guid>
+        <link>https://github.com/rakhisaxena/rakhisaxena.github.io//rakhisaxena-website//2016/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">https://github.com/rakhisaxena/rakhisaxena.github.io//rakhisaxena-website//2016/welcome-to-jekyll/</guid>
         
         <category>jekyll</category>
         
