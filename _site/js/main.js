@@ -19,7 +19,7 @@ if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
     //$('.panel-cover').addClass('panel-cover--collapsed')
   }
 
-  if (window.location.pathname !== '/rakhisaxena-website/' && window.location.pathname !== '/rakhisaxena-website/index.html') {
+  if (window.location.pathname !== 'http://rakhisaxena.github.io/' && window.location.pathname !== 'http://rakhisaxena.github.io/index.html') {
     //$('.panel-cover').addClass('panel-cover--collapsed')
   }
 
